@@ -27,7 +27,8 @@ $ ls && cd clone2021 && ls
 ## Usage :
 ```
 $ python2 crackfb.py
- 
+```
+
 ## ***Tool key***
 * Telegram : [Follow Me](https://t.me/TT_RQ)
 
